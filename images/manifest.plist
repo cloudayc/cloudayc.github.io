@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cloudayc.github.io/images/ushare.ipa</string>
+					<string>https://raw.githubusercontent.com/cloudayc/cloudayc.github.io/master/images/manifest.plist</string>
 				</dict>
 				<dict>
 					<key>kind</key>
